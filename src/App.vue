@@ -18,7 +18,6 @@ export default {
     <AppTitle/>
   </header>
   <main>
-    
     <AppContent/>
   </main>
   
@@ -36,5 +35,8 @@ export default {
 }
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
+}
+h2{
+  font-size: 50px !important;
 }
 </style>
