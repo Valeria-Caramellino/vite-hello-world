@@ -7,9 +7,7 @@ export default {
 
 <!-- Quando si importa questo componente verrà visualizzato questo HTML al suo posto -->
 <template>
-    <head>
-        <link rel="stylesheet" href="../../node_modules/bootstrap/dist/css/bootstrap.css">
-    </head>
+    
     <div>
         <h1 class="bg-danger p-4">Buon giorno, la mia prima app con Vite!</h1>
        

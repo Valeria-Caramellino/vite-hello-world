@@ -12,15 +12,14 @@ export default {
   }
 }
 </script>
-
+ 
 <template>
   <header>
     <AppTitle/>
   </header>
   <main>
     <AppContent/>
-  </main>
-  
+  </main>  
 </template>
 
 <style scoped>

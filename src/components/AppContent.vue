@@ -9,6 +9,11 @@ export default {
 <template>
     <div>
         <h2>😁🔝ciao</h2>
-        <img alt="Vue logo" class="logo" src="../assets/vue.svg" width="125" height="125" />
+        <img alt="Vue logo" class="logo" src="../assets/02.webp" width="125" height="125" />
     </div>
 </template>
+<style>
+    div#app{
+    background-color: cadetblue;
+    }
+</style>
